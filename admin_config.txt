@@ -1,2 +1,0 @@
-admin_password=APON
-global_duration=10
